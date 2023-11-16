@@ -1,7 +1,7 @@
 ### Hi, I am Sheiko Danil 👋
-👀 I’m interested in Backend & Frontend Development
-💻 I write code in Java, Python & JavaScript
-🎓 SPBPU University Master Student
+- 👀 I’m interested in Backend & Frontend Development
+- 💻 I write code in Java, Python & JavaScript
+- 🎓 SPBPU University Master Student
 
 <!--
 **agentdanabol/agentdanabol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
